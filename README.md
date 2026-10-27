@@ -22,7 +22,7 @@
 ## Установка и запуск
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com
+git clone git@github.com:jam-kaz/mandelbrot_project.git
 cd mandelbrot_project
 ```
 
